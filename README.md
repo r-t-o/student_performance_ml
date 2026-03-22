@@ -27,7 +27,9 @@ It uses Machine Learning to estimate a student's performance score and categoriz
 5. Output is displayed with category
 
 ## Run Locally
-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Live Demo
+https://studentperformanceml-j8tr6dnsdenesaqx6icctr.streamlit.app/
